@@ -1,18 +1,53 @@
-0-hello_world
-Displays a confused smiley '(Ôo)'
-Display the content of the /etc/passwd file
-Display the content of /etc/passwd and /etc/hosts
-Display the last 10 lines of /etc/passwd
-Display the first 10 lines of /etc/passwd
-Write a script that displays the third line of the file iacta
-Write a shell script that creates a file named exactly \*\'Best School\'\*$\?\*\*\*\*\*:) containing the text Best School ending by a new line.
-Write a script that writes into the file ls_cwd_content the result of the command ls -la. If the file ls_cwd_content already exists, it should be overwritten. If the file ls_cwd_content does not exist, create it.
-Write a script that duplicates the last line of the file iacta
-10 Write a script that deletes all the regular files (not the directories) with a .js extension that are present in the current directory and all its subfolders.
-Write a script that counts the number of directories and sub-directories in the current directory.
+"Hello, World"
 
+1-Displays a confused smiley "(Ôo)'
 
+2-Displays the content of the /etc/passwdfile
 
-The current and parent directories should not be taken into account
+3-Displays the content of /etc/passwd and /etc/hosts
 
-Hidden directories should be counted
+4-Displays the last 10 lines of /etc/passwd
+
+5-Displays the first 10 lines of /etc/passwd
+
+6-Displays the third line of the file iacta
+
+7-Creates a file named exactly \*\\'"Holberton School"\'\\*$\?\*\*\*\*\*:) containing the test Holberton School ending by a new line
+
+8-Writes into the file ls_cwd_content the result of the command ls -la.
+
+9-Duplicates the last line of the file iacta
+
+10-Deletes all the regular files with a .js extension that are present in the current directory and all its subfolders
+
+11-Counts the number of directories and sub-directories in the current directory
+
+12-Displays the 10 newest files in the current directory
+
+13-Takes a list of words as input and prints only words that appear exactly once
+
+14-Displayes lines containing the pattern "root" from the file /etc/passwd
+
+15-Displays the number of lines that contain the pattern "bin" in the file /etc/passwd
+
+16-Displays lines containing the patter "root" and 3 lines after them in the file /etc/passwd
+
+17-Displays all the lines in the file /etc/passwd that do not contain the pattern "bin"
+
+18-Displays all lines of the file /etc/ssh/sshd_config starting with a letter
+
+19-Replaces all characters A and c from input to Z and e respectively
+
+20-Removes all letters c and C from input
+
+21-Reverses its input
+
+22-Displays all users and their home directories, sorted by users
+
+100-Finds all empty files and directories in the current directory and all sub-directories
+
+101-Lists all the files with a .gif extension in the current directory and all its sub-directories
+
+102-Decodes acrostics that use the first letter of each line
+
+103-Parses web servers in TSV format as input and displays the 11 hosts or IP addresses which did the most requests
