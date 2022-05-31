@@ -12,7 +12,7 @@ Creates an alias
 
 6-Creates a new local variable named BETTY
 
-7-Creates a new global variable named HOLBERTON
+7-Creates a new global variable named School
 
 8-Prints the result of the addition of 128 with the value stored in the environment variable TRUEKNOWLEDGE, followed by a new line
 
